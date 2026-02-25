@@ -156,7 +156,7 @@
 }
 
 @utility text-dark400_light900 {
-  @apply text-dark-400! dark:text-light-900!;
+  @apply text-dark-400 dark:text-light-900!;
 }
 
 @utility light-border {
